@@ -1,0 +1,276 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    
+ 
+  {
+    "heading": "Interjections",
+    "questions": [
+      {
+        "questionNo": 1,
+        "story": "",
+        "question": "Choose the sentence where the underlined word does NOT function as an interjection but as a different part of speech.",
+        "options": [
+          { "text": "\"<b><u>Indeed,</b></u> that was a remarkable effort from the entire team.\"" },
+          { "text": "\"<b><u>Well,</b></u> I suppose we could try a different approach.\"" },
+          { "text": "\"The <b><u>well</b></u> in the village had provided water for over a century.\"" },
+          { "text": "\"<b><u>Oops!</b></u> I did not mean to send that message to everyone.\"" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 2,
+        "story": "",
+        "question": "In the following sentence, what type of interjection is used?<br><i>\"Hooray! We have finally been selected for the national competition!\"</i>",
+        "options": [
+          { "text": "Cognitive" },
+          { "text": "Volitive" },
+          { "text": "Emotive" },
+          { "text": "Agreement" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 3,
+        "story": "",
+        "question": "Which of the following is a primary interjection?",
+        "options": [
+          { "text": "Well" },
+          { "text": "Sure" },
+          { "text": "Indeed" },
+          { "text": "Ouch" }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 4,
+        "story": "",
+        "question": "Select the interjection in the following sentence:<br><i>\"Oh well, there is nothing more any of us can do about the situation now.\"</i>",
+        "options": [
+          { "text": "situation" },
+          { "text": "nothing" },
+          { "text": "Oh well" },
+          { "text": "more" }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Modifiers",
+    "questions": [
+      {
+        "questionNo": 5,
+        "story": "",
+        "question": "Identify the misplaced modifier in the following sentence:<br><i>\"She nearly drove for four hours without stopping for a break.\"</i>",
+        "options": [
+          { "text": "nearly" },
+          { "text": "without stopping" },
+          { "text": "for a break" },
+          { "text": "for four hours" }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 6,
+        "story": "",
+        "question": "Pick the option that best explains why the following sentence contains a dangling modifier:<br><i>\"After finishing the assignment, the television was switched on immediately.\"</i>",
+        "options": [
+          { "text": "The modifier is placed too far from the verb it is meant to describe." },
+          { "text": "The sentence lacks a logical subject who is finishing the assignment." },
+          { "text": "The verb is in the wrong tense for the modifier to work correctly." },
+          { "text": "The modifier is a prepositional phrase rather than a participial phrase." }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 7,
+        "story": "",
+        "question": "Which of the following is the most effective revision of this sentence to avoid a dangling modifier?<br><i>\"Hoping to catch the early bus, the alarm was set for five in the morning.\"</i>",
+        "options": [
+          { "text": "Hoping to catch the early bus, the alarm was set at five in the morning." },
+          { "text": "The alarm was set for five in the morning, hoping to catch the early bus." },
+          { "text": "Hoping to catch the early bus, she set the alarm for five in the morning." },
+          { "text": "Set for five in the morning, the early bus was what she hoped to catch." }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 8,
+        "story": "",
+        "question": "Which of the following is an example of a clause modifier?",
+        "options": [
+          { "text": "broad" },
+          { "text": "trembling" },
+          { "text": "of medium height" },
+          { "text": "although he was exhausted" }
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "heading": "Active and Passive Voice",
+    "questions": [
+      {
+        "questionNo": 9,
+        "story": "",
+        "question": "A student is asked to sort four sentences by voice. Three are in active voice. One is not. Which is the odd one out?",
+        "options": [
+          { "text": "The chef prepared a three-course meal for the visiting delegates." },
+          { "text": "The architect designed the bridge to withstand heavy coastal winds." },
+          { "text": "The farewell dinner was organised by the students for their teacher." },
+          { "text": "The journalist published the article before the evening deadline." }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 10,
+        "story": "",
+        "question": "A teacher writes this sentence on the board:<br><i>\"The trophies were arranged on the display shelf before the ceremony began.\"</i><br>She then tells her students to convert it to active voice.<br><i>Zoe writes: \"Someone arranged the trophies on the display shelf before the ceremony began.\"<br>Ben writes: \"The trophies arranged on the display shelf before the ceremony began.\"</i><br>Which student got it right?",
+        "options": [
+          { "text": "Only Zoe" },
+          { "text": "Only Ben" },
+          { "text": "Both Zoe and Ben" },
+          { "text": "Neither Zoe nor Ben" }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 11,
+        "story": "",
+        "question": "A teacher puts four sentences on the board and tells the class that one contains an error in its passive voice structure. Which one is it?",
+        "options": [
+          { "text": "The old photographs had been stored in a box beneath the stairs for decades." },
+          { "text": "The farewell speech will be delivered by the outgoing head of department tomorrow." },
+          { "text": "The injured passenger was took to the nearest hospital by the paramedics." },
+          { "text": "The school gates are locked every evening at half past five." }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 12,
+        "story": "",
+        "question": "A teacher writes this sentence on the board:<br><i>\"Someone left the gate open.\"</i><br>She then asks the students to transform it using passive voice.<br>Two students attempt the conversion:<br><i>Aisha writes: \"The gate was left open.\"<br>Omar writes: \"The gate was left open by someone.\"</i><br>Which student is correct?",
+        "options": [
+          { "text": "Only Aisha" },
+          { "text": "Only Omar" },
+          { "text": "Both are correct" },
+          { "text": "Neither Aisha nor Omar" }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Direct and Indirect Speech",
+    "questions": [
+      {
+        "questionNo": 13,
+        "story": "",
+        "question": "A student is checking her work. Her teacher asks her to find the sentence that is incorrectly punctuated.",
+        "options": [
+          { "text": "\"I haven't seen him since last Tuesday,\" she said slowly." },
+          { "text": "\"Did you manage to finish the report on time?\" he asked." },
+          { "text": "She whispered, \"don't say a word to anyone about this.\"" },
+          { "text": "\"We should probably leave before it gets any later,\" he suggested." }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 14,
+        "story": "",
+        "question": "A teacher writes this sentence on the board:<br><i>\"She said that she was learning to play the piano.\"</i><br>She asks the class to convert it back into direct speech. Which option is correct?",
+        "options": [
+          { "text": "She said, \"I was learning to play the piano.\"" },
+          { "text": "She said, \"She is learning to play the piano.\"" },
+          { "text": "She said, \"I am learning to play the piano.\"" },
+          { "text": "She said, \"I had been learning to play the piano.\"" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 15,
+        "story": "",
+        "question": "A teacher writes this sentence on the board:<br><i>\"I enjoy reading,\" says Tariq.</i><br>She asks the class to convert it into indirect speech. Which option is correct?",
+        "options": [
+          { "text": "Tariq said that he enjoyed reading." },
+          { "text": "Tariq says that he enjoys reading." },
+          { "text": "Tariq says that he enjoyed reading." },
+          { "text": "Tariq said that he enjoys reading." }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 16,
+        "story": "",
+        "question": "A student is writing a story in which one character casually mentions a routine update to another.<br> Which sentence correctly applies the rule for using direct and indirect speech in dialogue?",
+        "options": [
+          { "text": "\"The meeting has been moved to Thursday afternoon,\" she told him." },
+          { "text": "She mentioned that the meeting had been moved to Thursday afternoon." },
+          { "text": "The meeting. Thursday. She told him just like that." },
+          { "text": "She told him by saying that the meeting has been rescheduled." }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Distinguishing Facts from Opinions",
+    "questions": [
+      {
+        "questionNo": 17,
+        "story": "",
+        "question": "A teacher asks two students to write a sentence about the city of London.<br><i>Rahul writes: \"London is the capital city of England and has a population of approximately nine million people.\"<br>Sophia writes: \"London is by far the most exciting city in Europe and every visitor leaves thoroughly impressed.\"</i><br>Who wrote a fact?",
+        "options": [
+          { "text": "Only Rahul wrote a fact." },
+          { "text": "Only Sophia wrote a fact." },
+          { "text": "Both Rahul and Sophia wrote facts." },
+          { "text": "Neither Rahul nor Sophia wrote a fact." }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 18,
+        "story": "",
+        "question": "A teacher asks two students to write a sentence about climate change.<br><i>James writes: \"According to NASA, global average temperatures have risen by approximately 1.1 degrees Celsius since the late nineteenth century.\"<br>Lena writes: \"Anyone who denies climate change is simply being irresponsible and has no right to shape public policy.\"</i><br>Who wrote a fact?",
+        "options": [
+          { "text": "Only James wrote a fact." },
+          { "text": "Only Lena wrote a fact." },
+          { "text": "Both James and Lena wrote facts." },
+          { "text": "Neither James nor Lena wrote a fact." }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 19,
+        "story": "",
+        "question": "Which of the following sentences contains a signal word or phrase that marks it as an opinion rather than a fact?",
+        "options": [
+          { "text": "\"The Sahara Desert is the largest hot desert on Earth, covering approximately nine million square kilometres.\"" },
+          { "text": "\"In 1953, Edmund Hillary and Tenzing Norgay became the first people to reach the summit of Mount Everest.\"" },
+          { "text": "\"In my view, electric vehicles are the only practical solution to reducing urban air pollution.\"" },
+          { "text": "\"The human body contains approximately two hundred and six bones in total.\"" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 20,
+        "story": "",
+        "question": "A teacher writes the following sentence on the board:<br><i>\"The cheetah can reach speeds of up to 112 kilometres per hour, making it the fastest land animal on Earth.\"</i><br>She then asks why this is a fact and not an opinion.",
+        "options": [
+          { "text": "Because it uses formal, scientific language that sounds authoritative and reliable" },
+          { "text": "Because most people already know and believe that cheetahs are fast, making it a widely accepted truth" },
+          { "text": "Because it contains a specific, measurable claim about speed and a verifiable superlative that can be confirmed through scientific observation" },
+          { "text": "Because the sentence does not contain any evaluative words such as \"beautiful\" or \"impressive\"" }
+        ],
+        "answer": 2
+      }
+    ]
+  }
+
+
+                 
+      
+  ]
+}
